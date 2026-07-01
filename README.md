@@ -102,17 +102,6 @@ Evaluated and planned a predictive analytical system to monitor industrial water
 
 ---
 
-## 📈 GitHub Activity
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=poov77&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-
-
-
-
----
 # 🔥 Contribution Streak
 
 <div align="center">
