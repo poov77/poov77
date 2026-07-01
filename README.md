@@ -1,4 +1,4 @@
-# 🚀 Data Scientist • Data Analyst • AI Engineer
+# 🚀 Data Analyst • AI Engineer
 
 ### Driving Operational Efficiency Through Data • Building Intelligent AI Systems • Enterprise Analytics
 
@@ -103,8 +103,41 @@ Evaluated and planned a predictive analytical system to monitor industrial water
 
 
 ---
+# 📫 Connect With Me
 
-## 📫 Connect With Me
+<div align="center">
+
+<a href="https://linkedin.com/in/poovarasan007">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:poovarasank0707@gmail.com">
+<img src="https://img.shields.io/badge/Email-poovarasank0707@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+<a href="tel:+918870240822">
+<img src="https://img.shields.io/badge/Phone-+91--8870240822-success?style=for-the-badge&logo=whatsapp" alt="Phone" />
+</a>
+
+<br>
+
+<a href="https://poov77.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Site-teal?style=for-the-badge&logo=netlify" alt="Portfolio" />
+</a>
+<a href="https://drive.google.com/file/d/1-oVcroas_7hKZvPCzxsiYUn-Xo7JYwAw/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-View_CV-orange?style=for-the-badge&logo=googledrive" alt="Resume" />
+</a>
+<img src="https://img.shields.io/badge/Location-Bangalore-grey?style=for-the-badge&logo=googlemaps" alt="Location" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Transforming Raw Data Into Strategic Assets Through Intelligence & Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:0D1117&section=footer"/>
+
+</div>
 
 
 
