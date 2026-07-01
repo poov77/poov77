@@ -1,3 +1,13 @@
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1-oVcroas_7hKZvPCzxsiYUn-Xo7JYwAw/view?usp=sharing">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:58A6FF,100:0D1117&section=footer&text=Poovarasan%20K&fontSize=40&fontColor=ffffff&fontAlignY=50" alt="Footer" />
+</a>
+
+</div>
+
+</div>
+
 # 🚀 Data Analyst • AI Engineer
 
 ### Driving Operational Efficiency Through Data • Building Intelligent AI Systems • Enterprise Analytics
@@ -25,7 +35,7 @@ I am a data professional specializing in Artificial Intelligence and Data Scienc
 ## 💼 Professional Experience
 
 ### 🟢 Data Science Intern
-**Besant Technologies** | *Apr 2026 – Present*
+**Besant Technologies** | *March 2026 – Present*
 * Engineering end-to-end data pipelines and building practical machine learning models using real-world datasets.
 * Executing advanced exploratory data analysis (EDA) and data preprocessing utilizing Python, Pandas, NumPy, and Scikit-learn.
 * Developing data-driven solutions to optimize business workflows while aggressively expanding expertise in full-stack AI development.
@@ -167,7 +177,7 @@ Evaluated and planned a predictive analytical system to monitor industrial water
 ### 💡 Transforming Raw Data Into Strategic Assets Through Intelligence & Engineering
 
 <a href="https://linkedin.com/in/poovarasan007">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:58A6FF,100:0D1117&section=footer&text=Poovarasan%20K&fontSize=40&fontColor=ffffff&fontAlignY=60&desc=Let's%20Connect%20on%20LinkedIn!&descSize=20&descAlignY=80" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:58A6FF,100:0D1117&section=footer&fontColor=ffffff&fontAlignY=60&desc=Let's%20Connect%20on%20LinkedIn!&descSize=20&descAlignY=80" alt="Footer" />
 </a>
 
 </div>
