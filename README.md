@@ -8,7 +8,7 @@
 
 </div>
 
-# 🚀 Data Analyst • AI Developer
+# 🚀 Data Scientist • AI Developer
 
 ### Driving Operational Efficiency Through Data • Building Intelligent AI Systems • Enterprise Analytics
 
